@@ -25,5 +25,7 @@ DEN PUNKT AM ENDE NICHT VERGESSEN!!!
 
 5. im Ordner "dev" den Docker build-Prozess starten
   docker build -t name/vue-dev .
+  
+6. "dev/nuxt.config.js" in den Projekt-Ordner kopieren und die vorhandene Datei überschreiben.
 
-6. Docker-Compose-File starten
+7. Docker-Compose-File starten
